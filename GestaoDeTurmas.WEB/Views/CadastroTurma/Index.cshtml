@@ -1,0 +1,64 @@
+﻿@model GestaoDeTurmas.WEB.Models.CadastroTurmaModel
+<div class="mt-3">
+    @if (TempData["MensagemSucesso"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="Colse">X</button>
+            @TempData["MensagemSucesso"]
+        </div>
+    }
+
+    @if (TempData["MensagemErro"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            <button type="button" class="btn btn-danger btn-sm close-alert" arial-label="Colse">X</button>
+            @TempData["MensagemErro"]
+        </div>
+    }
+</div>
+<div class="container">
+    <form asp-action="Cadastrar" asp-controller="CadastroTurma" method="post">
+        <h1 class="row justify-content-center">Cadastro de turmas</h1>
+        <div class="row justify-content-center mt-5">
+            <div class="form-group col-md-3">
+                <label class="col-form-label">Turma</label>
+                <input asp-for="@Model.Turma" class="form-control" required/>
+            </div>
+            <div class="form-group col-md-3">
+                <label class="col-form-label">Ano</label>
+                <input asp-for="@Model.Ano" class="form-control" required/>
+            </div>
+            <div class="form-group col-md-3" style="margin-top: 37px;">
+                <button asp-controller="CadastroTurma" asp-action="Cadastrar" type="submit" class="btn btn-success">Salvar</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Turma</th>
+                <th>Ano</th>
+                <th>Ativo</th>
+                <th>Editar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model?.Turmas)
+            {
+                <tr>
+                    <td>@item.Turma</td>
+                    <td>@item.Ano</td>
+                    <td><i class="fa @(item.Ativo? "fa-check text-success" : "fa-times text-danger")"></i></td>
+                    <td>
+                        <a asp-controller="CadastroTurma" asp-action="Editar" asp-route-Id="@item.Id">
+                            <i class="fa fa-edit"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

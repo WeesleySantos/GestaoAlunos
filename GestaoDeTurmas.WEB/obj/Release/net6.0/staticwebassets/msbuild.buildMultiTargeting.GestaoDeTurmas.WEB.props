@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GestaoDeTurmas.WEB.props" />
+</Project>

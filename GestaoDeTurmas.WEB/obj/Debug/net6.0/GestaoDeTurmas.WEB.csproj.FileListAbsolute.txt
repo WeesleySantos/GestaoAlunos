@@ -1,0 +1,181 @@
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.GestaoDeTurmas.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\scopedcss\bundle\GestaoDeTurmas.WEB.styles.css
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\refint\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\ref\GestaoDeTurmas.WEB.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.Development.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Dapper.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.AssemblyReference.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfoInputs.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfo.cs
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CoreCompileInputs.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cs
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.GestaoDeTurmas.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoDeTurmas.WEB.props
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoDeTurmas.WEB.props
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoDeTurmas.WEB.props
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.build.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.development.json
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\scopedcss\bundle\GestaoDeTurmas.WEB.styles.css
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CopyComplete
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\refint\GestaoDeTurmas.WEB.dll
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.genruntimeconfig.cache
+D:\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\ref\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.GestaoDeTurmas.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\scopedcss\bundle\GestaoDeTurmas.WEB.styles.css
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CopyComplete
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\refint\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\ref\GestaoDeTurmas.WEB.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Dapper.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.AssemblyReference.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfoInputs.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfo.cs
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CoreCompileInputs.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cs
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.GestaoDeTurmas.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoDeTurmas.WEB.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoDeTurmas.WEB.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoDeTurmas.WEB.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\scopedcss\bundle\GestaoDeTurmas.WEB.styles.css
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CopyComplete
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\refint\GestaoDeTurmas.WEB.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.genruntimeconfig.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\ref\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.RazorAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.GestaoDeTurmas.WEB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoDeTurmas.WEB.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\scopedcss\bundle\GestaoDeTurmas.WEB.styles.css
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.csproj.CopyComplete
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\refint\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\GestaoDeTurmas.WEB.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoDeTurmas.WEB\obj\Debug\net6.0\ref\GestaoDeTurmas.WEB.dll

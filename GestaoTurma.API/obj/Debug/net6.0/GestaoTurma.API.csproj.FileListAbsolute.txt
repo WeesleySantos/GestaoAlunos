@@ -1,0 +1,234 @@
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.GestaoTurma.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\scopedcss\bundle\GestaoTurma.API.styles.css
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CopyComplete
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\refint\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\ref\GestaoTurma.API.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.staticwebassets.runtime.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.exe
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.deps.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.runtimeconfig.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.pdb
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Dapper.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.AssemblyReference.cache
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfoInputs.cache
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfo.cs
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CoreCompileInputs.cache
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.GestaoTurma.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoTurma.API.props
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoTurma.API.props
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoTurma.API.props
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\scopedcss\bundle\GestaoTurma.API.styles.css
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CopyComplete
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\refint\GestaoTurma.API.dll
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.pdb
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.genruntimeconfig.cache
+D:\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\ref\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.exe
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.deps.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.GestaoTurma.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\scopedcss\bundle\GestaoTurma.API.styles.css
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CopyComplete
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\refint\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\ref\GestaoTurma.API.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.staticwebassets.runtime.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.exe
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.deps.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.runtimeconfig.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.AssemblyReference.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfoInputs.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfo.cs
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CoreCompileInputs.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.GestaoTurma.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoTurma.API.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoTurma.API.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoTurma.API.props
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\scopedcss\bundle\GestaoTurma.API.styles.css
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CopyComplete
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\refint\GestaoTurma.API.dll
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.genruntimeconfig.cache
+C:\Users\tecnologia8\Downloads\GestaoDeTurmas\Turmas\Turmas\Gestao\GestaoTurma.API\obj\Debug\net6.0\ref\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.deps.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.exe
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.staticwebassets.runtime.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.exe
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.deps.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.runtimeconfig.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\bin\Debug\net6.0\GestaoDeTurmas.WEB.pdb
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.GestaoTurma.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.build.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestaoTurma.API.props
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\scopedcss\bundle\GestaoTurma.API.styles.css
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.csproj.CopyComplete
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\refint\GestaoTurma.API.dll
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.pdb
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\GestaoTurma.API.genruntimeconfig.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Debug\net6.0\ref\GestaoTurma.API.dll

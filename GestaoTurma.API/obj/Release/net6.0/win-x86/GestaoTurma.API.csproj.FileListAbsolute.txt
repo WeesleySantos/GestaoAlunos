@@ -1,0 +1,6 @@
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.csproj.AssemblyReference.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.AssemblyInfoInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.AssemblyInfo.cs
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Santos\Desktop\Gestao\GestaoTurma.API\obj\Release\net6.0\win-x86\GestaoTurma.API.MvcApplicationPartsAssemblyInfo.cache
